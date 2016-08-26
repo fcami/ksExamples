@@ -7,8 +7,6 @@ Demo of a fairly basic Python %pre script that:
 * computes swap size according to RAM size
 * detects if the system is virtual or physical
 
-Best used when no DHCP is available.
-
 Instructions:
 * copy the content of a CentOS 7.2+ or RHEL 7.2+ DVD in a webserver
 * modify the kickstart's "url" line to point to your webserver
