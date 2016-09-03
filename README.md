@@ -15,3 +15,11 @@ Instructions:
 * add "ks=http://webserver/ksPythonPre-EL7.cfg" to the command line
 * on VMware, add "net.ifnames=0 biosdevname=0" too
 
+### dedibox/*
+
+Demo of a basic CentOS reinstallation system on a Dedibox dedicated server which:
+* disables remote password authentication
+* adds ssh key(s)
+* configures yum priorities & adds EPEL
+* configures tuned, etc.
+ 
