@@ -1,5 +1,10 @@
 #/bin/bash
 
+# author: François Cami <fcami@fedoraproject.org>
+# License: MIT
+
+# see README.md
+
 export INSTALL_SRV="http://KICKSTART_SRV_FQDN/"
 
 export KSURL="${INSTALL_SRV}dedibox.cfg"

@@ -1,10 +1,8 @@
 
 # CentOS kickstart for Dedibox
 
-# author: François Cami <fcami@fedoraproject.org>
-# License: MIT
-
 CAUTION: backup your data before doing anything.
+
 THIS SCRIPT WILL REINSTALL YOUR SERVER AND DESTROY ALL ITS DATA.
 
 ### Prerequisites
