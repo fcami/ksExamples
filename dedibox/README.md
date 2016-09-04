@@ -36,3 +36,8 @@ Prepare and install the dedibox:
 * This script installs CentOS 7.2.1511 which may not be the latest version.
 * Please adapt to your needs.
 
+### Wishlist
+
+* network: use dhcp to boot, switch to static in %post
+* rootpw: add generator example
+
