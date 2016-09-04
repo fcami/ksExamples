@@ -1,9 +1,10 @@
 
-# CentOS kickstart for Dedibox
+# CentOS 7 reinstall script & kickstart for Dedibox dedicated servers
 
 CAUTION: backup your data before doing anything.
 
 THIS SCRIPT WILL REINSTALL YOUR SERVER AND DESTROY ALL ITS DATA.
+
 
 ### Prerequisites
 
@@ -29,12 +30,15 @@ Prepare and install the dedibox:
 * Installation takes about 15-20 mins on a Dedibox with SSD.
 * Once ssh is up, login using your SSH key and change the root password.
 
+
 ### Notes
 
 * This script uses Google's DNS servers.
 * This script uses the IRCAM's public mirror which may not be the closest to your location.
 * This script installs CentOS 7.2.1511 which may not be the latest version.
-* Please adapt to your needs.
+
+In other words, please adapt to your needs.
+
 
 ### Wishlist
 
