@@ -42,6 +42,6 @@ In other words, please adapt to your needs.
 
 ### Wishlist
 
-* network: use dhcp to boot, switch to static in %post
+* network: use dhcp to boot, generate a kickstart snippet in %pre to switch to static during install
 * rootpw: add generator example
 
