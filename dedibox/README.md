@@ -9,6 +9,7 @@ THIS SCRIPT WILL REINSTALL YOUR SERVER AND DESTROY ALL ITS DATA.
 ### Prerequisites
 
 A webserver (temporary web hosting will do) to host the kickstart and pubkeys file.
+A dedicated server ripe for reinstall.
 
 
 ### HowTo
@@ -33,11 +34,13 @@ Prepare and install the dedibox:
 
 ### Notes
 
-* This script uses Google's DNS servers.
-* This script uses the IRCAM's public mirror which may not be the closest to your location.
-* This script installs CentOS 7.2.1511 which may not be the latest version.
+This script:
+* uses Google's DNS servers.
+* uses the IRCAM's public mirror which may not be the closest to your location.
+* installs CentOS 7.2.1511 which may not be the latest version.
+* enables the EPEL and remi-safe repositories.
 
-In other words, please adapt to your needs.
+Please adapt to your needs.
 
 
 ### Wishlist
