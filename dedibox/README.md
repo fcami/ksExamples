@@ -9,6 +9,7 @@ THIS SCRIPT WILL REINSTALL YOUR SERVER AND DESTROY ALL ITS DATA.
 ### Prerequisites
 
 A webserver (temporary web hosting will do) to host the kickstart and pubkeys file.
+
 A dedicated server ripe for reinstall.
 
 
