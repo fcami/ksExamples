@@ -1,6 +1,6 @@
 # ksExamples
 
-### ksPythonPre-EL7.cfg
+### python-pre/ksPythonPre-EL7.cfg
 
 Demo of a fairly basic Python %pre script that:
 * uses snack (UI)
